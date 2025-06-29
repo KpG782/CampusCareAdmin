@@ -2,13 +2,13 @@
 
 > Empowering Student Well-being at University of Makati
 
-CampusCareAdminSIde is a robust, AI-powered guidance counseling and admin platform for the University of Makati. Built with FlutterFlow, Flutter, and Firebase, it empowers admins and counselors to manage student well-being, appointments, and analytics in a secure, intuitive, and visually stunning environment.
+CampusCareAdmin is a robust, AI-powered guidance counseling and admin platform for the University of Makati. Built with FlutterFlow, Flutter, and Firebase, it empowers admins and counselors to manage student well-being, appointments, and analytics in a secure, intuitive, and visually stunning environment.
 
 ---
 
 ## 🚀 Test the Website (Demo Account)
 
-Want to explore CampusCareAdminSIde? Try logging in with our demo account:
+Want to explore CampusCare? Try logging in with our demo account:
 
 - Email: tforte.a62241031@umak.edu.ph
 - Password: G@giTryl4ng
@@ -123,7 +123,7 @@ CampusCareAdmin leverages artificial intelligence to enhance student well-being:
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/YourOrg/CampusCareAdminSIde.git
+   git clone https://github.com/YourOrg/CampusCare.git
    cd campus_care_admin_s_ide
    ```
 2. **Add Firebase config**
@@ -176,7 +176,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ---
 
-> CampusCareAdminSIde: Designed with FlutterFlow. Engineered with Flutter & Dart. Enhanced by AI. Dedicated to student well-being.
+> CampusCare: Designed with FlutterFlow. Engineered with Flutter & Dart. Enhanced by AI. Dedicated to student well-being.
 
 ---
 
