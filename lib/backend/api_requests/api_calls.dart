@@ -11,59 +11,59 @@ export 'api_manager.dart' show ApiCallResponse;
 
 const _kPrivateApiFunctionName = 'ffPrivateApiCall';
 
-class SendEmailCall {
-  static Future<ApiCallResponse> call({
-    String? toEmail = '',
-    String? subject = '',
-    String? content = '',
-  }) async {
-    final ffApiRequestBody = '''
-{
-  "personalizations": [
-    {
-      "to": [
-        {
-          "email": "${escapeStringForJson(toEmail)}"
-        }
-      ],
-      "subject": "${escapeStringForJson(subject)}"
-    }
-  ],
-  "content": [
-    {
-      "type": "text/plain",
-      "value": "${escapeStringForJson(content)}"
-    }
-  ],
-  "from": {
-    "email": "kenpatrickgarcia123@gmail.com",
-    "name": "FlutterFlow"
-  },
-  "reply_to": {
-    "email": "kenpatrickgarcia123@gmail.com",
-    "name": "FlutterFlow"
-  }
-}''';
-    return ApiManager.instance.makeApiCall(
-      callName: 'sendEmail',
-      apiUrl: 'https://api.sendgrid.com/v3/mail/send',
-      callType: ApiCallType.POST,
-      headers: {
-        'Authorization':
-            // 'YOURKEY',
-      },
-      params: {},
-      body: ffApiRequestBody,
-      bodyType: BodyType.JSON,
-      returnBody: true,
-      encodeBodyUtf8: false,
-      decodeUtf8: false,
-      cache: false,
-      isStreamingApi: false,
-      alwaysAllowBody: false,
-    );
-  }
-}
+// class SendEmailCall {
+//   static Future<ApiCallResponse> call({
+//     String? toEmail = '',
+//     String? subject = '',
+//     String? content = '',
+//   }) async {
+//     final ffApiRequestBody = '''
+// {
+//   "personalizations": [
+//     {
+//       "to": [
+//         {
+//           "email": "${escapeStringForJson(toEmail)}"
+//         }
+//       ],
+//       "subject": "${escapeStringForJson(subject)}"
+//     }
+//   ],
+//   "content": [
+//     {
+//       "type": "text/plain",
+//       "value": "${escapeStringForJson(content)}"
+//     }
+//   ],
+//   "from": {
+//     "email": "kenpatrickgarcia123@gmail.com",
+//     "name": "FlutterFlow"
+//   },
+//   "reply_to": {
+//     "email": "kenpatrickgarcia123@gmail.com",
+//     "name": "FlutterFlow"
+//   }
+// }''';
+//     return ApiManager.instance.makeApiCall(
+//       callName: 'sendEmail',
+//       apiUrl: 'https://api.sendgrid.com/v3/mail/send',
+//       callType: ApiCallType.POST,
+//       headers: {
+//         'Authorization':
+//             // 'YOURKEY',
+//       },
+//       params: {},
+//       body: ffApiRequestBody,
+//       bodyType: BodyType.JSON,
+//       returnBody: true,
+//       encodeBodyUtf8: false,
+//       decodeUtf8: false,
+//       cache: false,
+//       isStreamingApi: false,
+//       alwaysAllowBody: false,
+//     );
+//   }
+// }
 
 class DeleteUserByEmailCall {
   static Future<ApiCallResponse> call({
