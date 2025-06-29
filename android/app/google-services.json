@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "91424880060",
+    "firebase_url": "https://campus-care-izsd1a-default-rtdb.firebaseio.com",
+    "project_id": "campus-care-izsd1a",
+    "storage_bucket": "campus-care-izsd1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91424880060:android:3e2c80e26fec711de2e7b9",
+        "android_client_info": {
+          "package_name": "com.mycompany.campuscare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91424880060-784l6re9rt52osl815491m6vp6pjchcb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.campuscare",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "91424880060-52kuere6f42lneu7jr2rkeh8hbat0uid.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpbeUVYY_kDBiyA9PKIB7NCPf8O__2z0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91424880060-52kuere6f42lneu7jr2rkeh8hbat0uid.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "91424880060-92g34pj3ktetlhk160ms340at6u3btv1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.campuscareadmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91424880060:android:59d47c6a62a2f3eee2e7b9",
+        "android_client_info": {
+          "package_name": "com.mycompany.campuscareadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91424880060-dl8dfu309ev6jqjmca6tcike59m51ots.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.campuscareadmin",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "91424880060-52kuere6f42lneu7jr2rkeh8hbat0uid.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpbeUVYY_kDBiyA9PKIB7NCPf8O__2z0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91424880060-52kuere6f42lneu7jr2rkeh8hbat0uid.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "91424880060-92g34pj3ktetlhk160ms340at6u3btv1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.campuscareadmin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>91424880060-92g34pj3ktetlhk160ms340at6u3btv1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.91424880060-92g34pj3ktetlhk160ms340at6u3btv1</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>91424880060-784l6re9rt52osl815491m6vp6pjchcb.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD-QdFanKxLseQp-8xXqXqwSzFhKGNQSew</string>
+	<key>GCM_SENDER_ID</key>
+	<string>91424880060</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.campuscareadmin</string>
+	<key>PROJECT_ID</key>
+	<string>campus-care-izsd1a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>campus-care-izsd1a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:91424880060:ios:8cb17c6856d6a62ee2e7b9</string>
+	<key>DATABASE_URL</key>
+	<string>https://campus-care-izsd1a-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
