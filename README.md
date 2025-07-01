@@ -8,7 +8,7 @@ CampusCareAdmin is a robust, AI-powered guidance counseling and admin platform f
 
 ## 🚀 Test the Website (Demo Account)
 
-Want to explore CampusCare? Try logging in with our demo account:
+Want to explore CampusCareAdmin? Try logging in with our demo account:
 
 - Email: tforte.a62241031@umak.edu.ph
 - Password: G@giTryl4ng
