@@ -13,7 +13,7 @@ Want to explore CampusCare? Try logging in with our demo account:
 - Email: tforte.a62241031@umak.edu.ph
 - Password: G@giTryl4ng
 
-Feel free to navigate, test features, and experience the app as a student user!
+Feel free to navigate, test features, and experience the app as a admin user!
 
 ---
 
