@@ -110,6 +110,13 @@ CampusCareAdmin leverages artificial intelligence to enhance student well-being:
 
 ---
 
+## 🎨 Design & Prototypes
+
+Check out our Figma designs and prototypes here:  
+https://www.figma.com/design/uL8ySg520S6FQFeV7KKNOr/GUIDANCE-COUNSELING-APP?node-id=378-471
+
+---
+
 ## 🛠️ Getting Started
 
 ### Prerequisites
